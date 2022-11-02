@@ -1,0 +1,1 @@
+const String baseUrl = "https://flutter-task.free.mockoapp.net/data";
